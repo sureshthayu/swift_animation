@@ -114,7 +114,6 @@ class ViewController: UIViewController {
                     self?.view.layoutIfNeeded()
       }, completion: nil)
 
-
   }
 
   override func viewDidLoad() {
